@@ -5,3 +5,4 @@ I) Pump and nozzle calculations (Python).
 II) CAD Design of the nozzle from the calculated dimensions; Conical, Stepped.
 III) CFD analysis of both Nozzles
 IV) Final Report of the Project.
+V) Added a bell shaped Nozzle for future project(Complete CFD, Design)
